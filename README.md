@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andriel0
+- 👋 Hi, I’m Andriel Alexandre de Oliveira and I'm 25.
 - 👀 I’m interested in learning and working in dev. 
 - 🌱 I’m currently learning dev full stack and pretending to study data science soon.
 - 💞️ I’m looking to collaborate on helping people to make better programs.
